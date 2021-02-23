@@ -1,0 +1,6 @@
+baseURL: http://jimwrites.com
+disablePathToLower: true
+languageCode: en-us
+title: Jim Writes
+theme: etch2
+

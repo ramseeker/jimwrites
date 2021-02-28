@@ -1,7 +1,3 @@
-[submodule "Submod"]
-path = "themes/etch2 
-https://github.com/LukasJoswiak/etch.git themes/etch2
-	branch = Development
-[submodule "themes/hugo-bearblog"]
-	path = themes/hugo-bearblog
-	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/etch3"]
+	path = themes/etch3
+	url = https://github.com/LukasJoswiak/etch.git
